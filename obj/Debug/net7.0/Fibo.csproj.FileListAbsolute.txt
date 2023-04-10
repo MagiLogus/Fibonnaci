@@ -1,0 +1,15 @@
+C:\Users\33984578865\Desktop\Fibo\bin\Debug\net7.0\Fibo.exe
+C:\Users\33984578865\Desktop\Fibo\bin\Debug\net7.0\Fibo.deps.json
+C:\Users\33984578865\Desktop\Fibo\bin\Debug\net7.0\Fibo.runtimeconfig.json
+C:\Users\33984578865\Desktop\Fibo\bin\Debug\net7.0\Fibo.dll
+C:\Users\33984578865\Desktop\Fibo\bin\Debug\net7.0\Fibo.pdb
+C:\Users\33984578865\Desktop\Fibo\obj\Debug\net7.0\Fibo.csproj.AssemblyReference.cache
+C:\Users\33984578865\Desktop\Fibo\obj\Debug\net7.0\Fibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33984578865\Desktop\Fibo\obj\Debug\net7.0\Fibo.AssemblyInfoInputs.cache
+C:\Users\33984578865\Desktop\Fibo\obj\Debug\net7.0\Fibo.AssemblyInfo.cs
+C:\Users\33984578865\Desktop\Fibo\obj\Debug\net7.0\Fibo.csproj.CoreCompileInputs.cache
+C:\Users\33984578865\Desktop\Fibo\obj\Debug\net7.0\Fibo.dll
+C:\Users\33984578865\Desktop\Fibo\obj\Debug\net7.0\refint\Fibo.dll
+C:\Users\33984578865\Desktop\Fibo\obj\Debug\net7.0\Fibo.pdb
+C:\Users\33984578865\Desktop\Fibo\obj\Debug\net7.0\Fibo.genruntimeconfig.cache
+C:\Users\33984578865\Desktop\Fibo\obj\Debug\net7.0\ref\Fibo.dll
